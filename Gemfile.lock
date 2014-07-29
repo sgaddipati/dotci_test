@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cancan (1.6.10)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cancan
