@@ -1,5 +1,7 @@
 environment:
   language: ruby
 build:
-  run: echo meow2
+  run:
+     one: echo meow1
+     two: echo meow2
  
