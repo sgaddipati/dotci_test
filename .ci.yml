@@ -1,7 +1,8 @@
 environment:
   language: ruby
+  language_version: 
+        - meowq
+        - meowx
 build:
-  run:
-     one: echo meow1
-     two: echo meow2
+  run:echo meow1
  
