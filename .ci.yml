@@ -4,5 +4,5 @@ environment:
         - meowq
         - meowx
 build:
-  run:echo meow1
+  run: echo meow1
  
