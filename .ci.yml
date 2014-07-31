@@ -1,5 +1,5 @@
 environment:
-  language_version: 
+  language_versions: 
           - one 
           - two 
   language: ruby
