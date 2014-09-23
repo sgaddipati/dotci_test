@@ -1,5 +1,3 @@
-environment:
-  language: ruby
 build:
   run: echo meow2
  
