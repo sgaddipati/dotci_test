@@ -3,4 +3,4 @@ environment:
 build:
   run: echo meow2
 plugins:
-  - deploy_request 
+  - request_deploy 
